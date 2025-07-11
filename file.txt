@@ -5,3 +5,4 @@ create commit c10 on arik's branch
 create commit c11 on arik's branch
 
 Merge resolved and v1.0.2 created on main
+Create commit c6
