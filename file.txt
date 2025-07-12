@@ -12,3 +12,4 @@ Create commit c3 on john/feature1 branch
 Create commit c7 on john/feature1 branch
 
 Create commit c9
+Create commit c5 on john/feature1-test branch
