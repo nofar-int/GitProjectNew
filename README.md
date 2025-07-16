@@ -1,4 +1,3 @@
-
 # Git Project [![][autotest_badge]][autotest_workflow]
 
 ## Preliminaries
@@ -201,12 +200,4 @@ As it's only an exercise, we may not approve your pull request (approval would l
 
 # Good Luck
 
-[DevOpsTheHardWay]: https://github.com/exit-zero-academy/DevOpsTheHardWay
-[onboarding_tutorial]: https://github.com/exit-zero-academy/DevOpsTheHardWay/blob/main/tutorials/onboarding.md
-[autotest_badge]: ../../actions/workflows/project_auto_testing.yaml/badge.svg?event=push
-[autotest_workflow]: ../../actions/workflows/project_auto_testing.yaml/
-[fork_github]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository
-[clone_pycharm]: https://www.jetbrains.com/help/pycharm/set-up-a-git-repository.html#clone-repo
-[github_actions]: ../../actions
-[github_repo]: ../../
 
