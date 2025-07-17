@@ -9,7 +9,12 @@ Merge resolved and v1.0.2 created on main
 Create commit c6
 
 Create commit c3 on john/feature1 branch
+
 Create commit c7 on john/feature1 branch
 
 Create commit c9
 Create commit c5 on john/feature1-test branch
+
+Create commit c5 on john/feature1-test branch
+Create commit c8 on john/feature1-test branch
+
